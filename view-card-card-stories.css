@@ -1,0 +1,89 @@
+._1b5mdi0 {
+  background-color: #FFFFFF;
+  width: auto;
+}
+._1b5mdi1 {
+  padding: 0.75rem;
+  border: 1px solid #504695;
+  border-radius: 0.5rem;
+}
+._7tb5k40 {
+  width: 3.75rem;
+  height: 2rem;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+}
+._7tb5k41 {
+  background-color: #B8B5C0;
+}
+._7tb5k42 {
+  background-color: #504695;
+}
+._7tb5k43 {
+  position: relative;
+  width: 3.7rem;
+  height: 2rem;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+}
+._7tb5k44 {
+  position: absolute;
+  appearance: none;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 0.75rem;
+  background-color: #F2F0F5;
+  transition: transform 0.2s;
+}
+._7tb5k45 {
+  transform: translateX(0);
+}
+._7tb5k46 {
+  transform: translateX(1.75rem);
+}
+.hyaxdz0 {
+  height: 1rem;
+}
+.hyaxdz1 {
+  height: 2rem;
+}
+.hyaxdz2 {
+  height: 3rem;
+}
+.hyaxdz3 {
+  height: 5rem;
+}
+.hyaxdz4 {
+  height: 10rem;
+}
+.hyaxdz5 {
+  height: 0.25rem;
+}
+.hyaxdz6 {
+  height: 0.5rem;
+}
+.hyaxdz7 {
+  width: 1rem;
+}
+.hyaxdz8 {
+  width: 2rem;
+}
+.hyaxdz9 {
+  width: 3rem;
+}
+.hyaxdza {
+  width: 5rem;
+}
+.hyaxdzb {
+  width: 10rem;
+}
+.hyaxdzc {
+  width: 0.25rem;
+}
+.hyaxdzd {
+  width: 0.5rem;
+}
+
+/*# sourceMappingURL=view-card-card-stories.css.map*/

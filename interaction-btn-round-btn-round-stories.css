@@ -1,0 +1,72 @@
+._1lj3aem0 {
+  border: 1px solid transparent;
+  border-radius: 1.25rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  cursor: pointer;
+}
+._1lj3aem1 {
+  background-color: #504695;
+  color: #FFFFFF;
+  &:hover {
+    background-color: #615e7c;
+  }
+}
+._1lj3aem1:disabled {
+  background-color: #D9D3DF;
+  color: #56535C;
+  cursor: not-allowed;
+}
+._1lj3aem2 {
+  border: 1px solid #030005;
+  background-color: #FFFFFF;
+  color: #030005;
+  &:hover {
+    background-color: #F2F0F5;
+  }
+}
+._1lj3aem2:disabled {
+  background-color: #D9D3DF;
+  color: #56535C;
+  cursor: not-allowed;
+}
+._1lj3aem3 {
+  background-color: #030005;
+  color: #FFFFFF;
+  &:hover {
+    background-color: #56535C;
+  }
+}
+._1lj3aem3:disabled {
+  background-color: #D9D3DF;
+  color: #56535C;
+  cursor: not-allowed;
+}
+._1lj3aem4 {
+  border: 1px solid transparent;
+  border-radius: 1.25rem;
+  padding-left: 0.35rem;
+  padding-right: 0.35rem;
+  cursor: pointer;
+  background-color: #FFFFFF;
+  color: #030005;
+  &:hover {
+    background-color: #F2F0F5;
+  }
+}
+._1lj3aem4:disabled {
+  background-color: #D9D3DF;
+  color: #56535C;
+  cursor: not-allowed;
+}
+._1lj3aem5 {
+  height: 2.5rem;
+}
+._1lj3aem6 {
+  height: 2rem;
+}
+._1lj3aem7 {
+  height: 1.25rem;
+}
+
+/*# sourceMappingURL=interaction-btn-round-btn-round-stories.css.map*/

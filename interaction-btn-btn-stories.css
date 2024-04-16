@@ -1,0 +1,50 @@
+._1dg3q330 {
+  display: block;
+  border: 1px solid transparent;
+  border-radius: 0.5rem;
+  width: 100%;
+  height: 2.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  cursor: pointer;
+  font-size: 1rem;
+}
+._1dg3q331 {
+  background-color: #504695;
+  color: #FFFFFF;
+  &:hover {
+    background-color: #615e7c;
+  }
+}
+._1dg3q331:disabled {
+  background-color: #D9D3DF;
+  color: #56535C;
+  cursor: not-allowed;
+}
+._1dg3q332 {
+  border: 1px solid #030005;
+  background-color: #FFFFFF;
+  color: #030005;
+  &:hover {
+    background-color: #F2F0F5;
+  }
+}
+._1dg3q332:disabled {
+  background-color: #D9D3DF;
+  color: #56535C;
+  cursor: not-allowed;
+}
+._1dg3q333 {
+  background-color: #030005;
+  color: #FFFFFF;
+  &:hover {
+    background-color: #56535C;
+  }
+}
+._1dg3q333:disabled {
+  background-color: #D9D3DF;
+  color: #56535C;
+  cursor: not-allowed;
+}
+
+/*# sourceMappingURL=interaction-btn-btn-stories.css.map*/

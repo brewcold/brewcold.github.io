@@ -1,0 +1,38 @@
+._7tb5k40 {
+  width: 3.75rem;
+  height: 2rem;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+}
+._7tb5k41 {
+  background-color: #B8B5C0;
+}
+._7tb5k42 {
+  background-color: #504695;
+}
+._7tb5k43 {
+  position: relative;
+  width: 3.7rem;
+  height: 2rem;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+}
+._7tb5k44 {
+  position: absolute;
+  appearance: none;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 0.75rem;
+  background-color: #F2F0F5;
+  transition: transform 0.2s;
+}
+._7tb5k45 {
+  transform: translateX(0);
+}
+._7tb5k46 {
+  transform: translateX(1.75rem);
+}
+
+/*# sourceMappingURL=interaction-switch-switch-stories.css.map*/

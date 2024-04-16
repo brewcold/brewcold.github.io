@@ -1,0 +1,61 @@
+._8rmmhw0 {
+  width: 100%;
+}
+._8rmmhw1 {
+  display: flex;
+  flex-direction: row;
+}
+._8rmmhw2 {
+  display: flex;
+  flex-direction: column;
+}
+._8rmmhw3 {
+  justify-content: flex-start;
+}
+._8rmmhw4 {
+  justify-content: flex-end;
+}
+._8rmmhw5 {
+  justify-content: center;
+}
+._8rmmhw6 {
+  justify-content: flex-start;
+}
+._8rmmhw7 {
+  justify-content: flex-end;
+}
+._8rmmhw8 {
+  justify-content: space-between;
+}
+._8rmmhw9 {
+  justify-content: space-around;
+}
+._8rmmhwa {
+  justify-content: space-evenly;
+}
+._8rmmhwb {
+  align-items: flex-start;
+}
+._8rmmhwc {
+  align-items: flex-end;
+}
+._8rmmhwd {
+  align-items: flex-start;
+}
+._8rmmhwe {
+  align-items: flex-end;
+}
+._8rmmhwf {
+  align-items: center;
+}
+._8rmmhwg {
+  align-items: stretch;
+}
+._8rmmhwh {
+  flex-wrap: nowrap;
+}
+._8rmmhwi {
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=layout-flex-flex-stories.css.map*/
